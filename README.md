@@ -11,7 +11,18 @@ HOLA MI PAGINA WEB ES ESTA :)
 
    <h1>Se bienvenid@ a mi espacio</h1>
    
-  <h2>Mis trabajos</h2>
+<html>
+<head>
+    <title>Mis practicas</title>
+</head>
+<body>
+
+    <h1>Bienvenid@ a mis Prácticas.</h1>
+    
+    <table width="100%" border="0">
+        <tr>
+            <td width="30%" valign="top">
+                <h2>Mis Entregas</h2>  
     
   <ul>
         <li><a href="estructura_basica_y_textos">TRABAJO 1: Estructura HTML</a></li>
@@ -29,8 +40,15 @@ HOLA MI PAGINA WEB ES ESTA :)
                 <source src="img/urielsito.gif.mp4" type="video/mp4" />
                 Tu navegador no soporta el formato de video.
             </video>
-        </td>
-
+  </td>
+   <td width="70%" bgcolor="black" align="center">
+                <video width="100%" controls>
+                    <source src="tu_video.mp4" type="video/mp4">
+                    Tu navegador no soporta el formato de video.
+                </video>
+            </td>
+        </tr>
+    </table>
     
 </ul>
 
