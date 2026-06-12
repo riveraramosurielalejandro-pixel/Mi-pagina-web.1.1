@@ -26,7 +26,7 @@ HOLA MI PAGINA WEB ES ESTA :)
        <li><a href="Lo_que_pienso_del_semestre/index.html">Opinion final del semestre:OPINION FINAL DEL SEMESTRE</a></li>
   <td width="70%" bgcolor="black" align="center">
             <video width="20%" controls="">
-                <source src="img/urielsito.mp4" type="video/mp4" />
+                <source src="img/urielsito.gif.mp4" type="video/mp4" />
                 Tu navegador no soporta el formato de video.
             </video>
         </td>
