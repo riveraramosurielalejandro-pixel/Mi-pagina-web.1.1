@@ -3,11 +3,22 @@
 HOLA MI PAGINA WEB ES ESTA :)
 
 <head>
-     <title>Mi Portafolio - Uriel</title>
+     <title>  Mi Portafolio - Uriel </title>
 </head>
-<body pagebgcolor="skyblue">
+<body>
+<style>Background color="lightblue"
+</style>
 
-   <h1>Se bienvenid@ a mi espacio</h1>
+<h1><font size=5>¿Quien soy?</font></h1>
+<font size=2.5> Centro de Estudios Cientificos y Tecnologicos No.3
+                       "Estanislao Ramirez Ruiz"</font>
+
+<li>Yo me llamo Uriel Alejandro Rivera Ramos :3</li>
+<li>tengo 15 años:3</li>
+
+<li>Soy una persona que se considera divertid amable y buena gente pero cuando no tengo q serlo me vuelvo serio, enfocado y dedicado a lo que voy:3</li>
+                                        
+   <h2>Se bienvenid@ a mi espacio</h2>
     <table width="100%" border="0">
         <tr>
             <td width="30%" bgcolor="#FF8A8A" valign="top">
