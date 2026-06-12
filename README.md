@@ -5,7 +5,7 @@ HOLA MI PAGINA WEB ES ESTA :)
      <title>Mi Portafolio - Uriel</title>
 </head>
 <body>
-<body bgcolor=7A7848>
+<body bgcolor="B8B38C">
 
 
    <h1>Se bienvenid@ a mi espacio</h1>
