@@ -26,7 +26,7 @@ HOLA MI PAGINA WEB ES ESTA :)
   </ul>
             </td>
             <td width="70%" bgcolor="black" align="center">
-                <video width="100%" controls>
+                <video width="20%" controls>
                     <source src="video.mp4" type="video/mp4">
                     Tu navegador no soporta el formato de video.
                 </video>
