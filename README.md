@@ -1,11 +1,12 @@
-# Mi-pagina-web.1.1
-HOLA MI PAGINA WEB ES ESTA :)
 <html>
+<font size=10>MI PAGINA WEB VROS :/</font>
+HOLA MI PAGINA WEB ES ESTA :)
+
 <head>
      <title>Mi Portafolio - Uriel</title>
 </head>
 <body>
-<body bgcolor="B8B38C">
+<body pagebgcolor="skyblue">
 
 
    <h1>Se bienvenid@ a mi espacio</h1>
@@ -13,16 +14,22 @@ HOLA MI PAGINA WEB ES ESTA :)
   <h2>Mis trabajos</h2>
     
   <ul>
-        <li><a href="estructura_basica_y_textos">Tarea 1: Estructura HTML</a></li>
-        <li><a href="listas_y_lineas">Tarea 2: Listas y líneas</a></li>
-        <li><a href="imagenes_y_multimedia">Tarea 3: Imágenes y multimedia</a></li>
-        <li><a href="hipervinculos">Tarea 4: Hipervínculos</a></li>
-        <li>Tarea 5:</li>
+        <li><a href="estructura_basica_y_textos">TRABAJO 1: Estructura HTML</a></li>
+        <li><a href="listas_y_lineas">TRABAJO 2: Listas y líneas</a></li>
+        <li><a href="imagenes_y_multimedia">TRABAJO 3: Imágenes y multimedia</a></li>
+        <li><a href="hipervinculos">TRABAJO 4: Hipervínculos</a></li>
+        <li>TRABAJO 5:</li>
           <ol>
-            <li><a href="Tablas">Parte 1: Tablas</a></li>
-            <li><a href="tablas2">Parte 2: Tablas2</a></li>
+            <li><a href="Tablas">PT 1: Tablas</a></li>
+            <li><a href="tablas2">PT 2: Tablas2</a></li>
           </ol>
        <li><a href="Lo_que_pienso_del_semestre/index.html">Opinion final del semestre:OPINION FINAL DEL SEMESTRE</a></li>
+       <td width="70%" bgcolor="black" align="center">
+            <video width="20%" controls="">
+                <source src="urielsito.mp4" type="urielsito.mp4" />
+                Tu navegador no soporta el formato de video.
+            </video>
+        </td>
 </ul>
 
   <p>Hecho por:URIELSINI EL MAS PRO:3
