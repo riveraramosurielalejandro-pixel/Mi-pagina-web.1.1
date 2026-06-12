@@ -22,6 +22,7 @@ HOLA MI PAGINA WEB ES ESTA :)
             <li><a href="Tablas">Parte 1: Tablas</a></li>
             <li><a href="tablas2">Parte 2: Tablas2</a></li>
           </ol>
+       <li><a href="Lo_que_pienso_del_semestre/index.html">Opinion final del semestre:OPINION FINAL DEL SEMESTRE</a></li>
 </ul>
 
   <p>Hecho por:URIELSINI EL MAS PRO:3
