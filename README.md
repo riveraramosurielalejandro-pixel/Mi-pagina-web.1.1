@@ -24,6 +24,7 @@ HOLA MI PAGINA WEB ES ESTA :)
             <li><a href="tablas2">PT 2: Tablas2</a></li>
           </ol>
        <li><a href="Lo_que_pienso_del_semestre/index.html">Opinion final del semestre:OPINION FINAL DEL SEMESTRE</a></li>
+       <li><a href="final">TRABAJO 1: Estructura HTML</a></li>
   <td width="70%" bgcolor="black" align="center">
             <video width="20%" controls="">
                 <source src="img/urielsito.mp4" type="video/mp4" />
