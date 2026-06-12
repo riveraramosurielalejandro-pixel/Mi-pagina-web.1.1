@@ -24,14 +24,14 @@ HOLA MI PAGINA WEB ES ESTA :)
             <li><a href="tablas2">PT 2: Tablas2</a></li>
           </ol>
        <li><a href="Lo_que_pienso_del_semestre/index.html">Opinion final del semestre:OPINION FINAL DEL SEMESTRE</a></li>
-       <hr widht="50%" style="border-color: aqua; borderwidth: 6px;">
-<font color="red size="7" face="arial">Video en pantalla al pasar el mouse</font><br>
-<Video src="img/urielsito.mp4" muted loop
-              style="width: 300px; height: 300px; cursor: pointer;"
-             onmouseenter="this.play()" onouseleave="this.pause()">
+  <td width="70%" bgcolor="black" align="center">
+            <video width="20%" controls="">
+                <source src="img/urielsito.mp4" type="video/mp4" />
                 Tu navegador no soporta el formato de video.
             </video>
         </td>
+
+    
 </ul>
 
   <p>Hecho por:URIELSINI EL MAS PRO:3
