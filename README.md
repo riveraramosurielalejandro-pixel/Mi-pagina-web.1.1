@@ -5,12 +5,12 @@ HOLA MI PAGINA WEB ES ESTA :)
      <title>Mi Portafolio - Uriel</title>
 </head>
 <body>
-<td bg color="lightyellow"></td>
+<body bg color="beige">
 
 
-   <h1>Bienvenid@ a mi Portafolio ti@</h1>
+   <h1>Se bienvenid@ a mi espacio</h1>
    
-  <h2>Mis Entregas</h2>
+  <h2>Mis trabajos</h2>
     
   <ul>
         <li><a href="estructura_basica_y_textos">Tarea 1: Estructura HTML</a></li>
@@ -20,7 +20,7 @@ HOLA MI PAGINA WEB ES ESTA :)
         <li>Tarea 5:</li>
           <ol>
             <li><a href="Tablas">Parte 1: Tablas</a></li>
-            <li><a href="tablas2">Parte 2: Continentes</a></li>
+            <li><a href="tablas2">Parte 2: Tablas2</a></li>
           </ol>
 </ul>
 
